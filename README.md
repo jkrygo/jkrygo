@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Software Projects:</h2>
 
-- <b>Programming Projects</b>
+- <b>Python</b>
   - [Amazon Recommender System](https://github.com/jkrygo/amznrec)
+- <b>Java</b>
   - [PokéCalc](https://github.com/jkrygo/pokecalc)
 
 <h2> 🤳 Connect with me:</h2>
