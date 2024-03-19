@@ -1,5 +1,9 @@
 <h1>Hi, I'm Jack! </h1>
 
+<h2>🖥️ Home Lab Projects</h2>
+- <b>Active Directory</b>
+  - [Configuring an Active Directory Home Lab](https://github.com/jkrygo/adhomelab/tree/main)
+
 <h2>👨‍💻 Software Projects:</h2>
 
 - <b>Python</b>
