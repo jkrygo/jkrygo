@@ -4,7 +4,7 @@
 
 - <b>Active Directory</b>
   - [Configuring an Active Directory Home Lab](https://github.com/jkrygo/adhomelab/)
-  - [Deploying Software Using Group Policy](https://github.com/jkrygo/grouppolicy/)
+  - [Deploying Software With Group Policy](https://github.com/jkrygo/grouppolicy/)
 <h2>👨‍💻 Software Projects:</h2>
 
 - <b>Python</b>
