@@ -5,7 +5,11 @@
 - <b>Active Directory</b>
   - [Configuring an Active Directory Home Lab](https://github.com/jkrygo/adhomelab/)
   - [Deploying Software With Group Policy](https://github.com/jkrygo/grouppolicy/)
-<h2>👨‍💻 Software Projects:</h2>
+  
+- <b>🛡️ Security</b>
+  - [Vulnerability Management Lab](https://github.com/jkrygo/vulnmgmt/blob/main/README.md)
+
+<h2>👨‍💻 Software Projects</h2>
 
 - <b>Python</b>
   - [Amazon Recommender System](https://github.com/jkrygo/amznrec)
