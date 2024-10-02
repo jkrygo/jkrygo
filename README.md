@@ -13,6 +13,7 @@
 
 - <b>Python</b>
   - [Amazon Recommender System](https://github.com/jkrygo/amznrec)
+  - [EDI Invoice Processor](https://github.com/jkrygo/amznrec)
 - <b>Java</b>
   - [PokéCalc](https://github.com/jkrygo/pokecalc)
 
