@@ -22,7 +22,7 @@
 
 <h2>📜 Certifications</h2>
 
-- Cisco CCNA
+- [Cisco CCNA](https://www.credly.com/badges/34fa640c-d242-498a-949e-0c38ec59477a)
 - [Microsoft AZ-900](https://learn.microsoft.com/en-us/users/kry/credentials/f6a4f4f4acba2eff)
 - [CompTIA Security+](https://www.credly.com/badges/a896d59d-fdaf-402c-8c98-95ec70fea50f)
 - [CompTIA A+](https://www.credly.com/badges/b070df3d-26b2-4c96-ab82-542f5846c74f)
