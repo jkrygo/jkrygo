@@ -25,11 +25,11 @@
 
 ## Certifications
 
-[![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/34fa640c-d242-498a-949e-0c38ec59477a)
-[![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/kry/credentials/f6a4f4f4acba2eff)
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/a896d59d-fdaf-402c-8c98-95ec70fea50f)
-[![A+](https://img.shields.io/badge/CompTIA-A%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/b070df3d-26b2-4c96-ab82-542f5846c74f)
+- [Cisco CCNA](https://www.credly.com/badges/34fa640c-d242-498a-949e-0c38ec59477a)
+- [Microsoft AZ-900](https://learn.microsoft.com/en-us/users/kry/credentials/f6a4f4f4acba2eff)
+- [CompTIA Security+](https://www.credly.com/badges/a896d59d-fdaf-402c-8c98-95ec70fea50f)
+- [CompTIA A+](https://www.credly.com/badges/b070df3d-26b2-4c96-ab82-542f5846c74f)
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jack%20Krygowski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkrygowski/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkrygowski/)
