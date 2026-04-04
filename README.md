@@ -6,6 +6,9 @@
   - [Configuring an Active Directory Home Lab](https://github.com/jkrygo/adhomelab/)
   - [Deploying Software With Group Policy](https://github.com/jkrygo/grouppolicy/)
 
+- **🔐 Identity & Access Management**
+  - [Microsoft Entra ID & Conditional Access Lab](https://github.com/jkrygo/entra-id-homelab)
+
 - **🛡️ Security**
   - [Vulnerability Management Lab](https://github.com/jkrygo/vulnmgmt/blob/main/README.md)
 
